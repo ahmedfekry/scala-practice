@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\xampp\htdocs\scala-practice\functionComposition.scala:18:7: method h has return statement; needs result type[0m
+[0m[[0m[31merror[0m] [0m[0m      return (sq:Int => Int, inc:Int => Int) => {[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
